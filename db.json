@@ -1,0 +1,329 @@
+{
+  "resumes": [
+    {
+      "fullname": "sa",
+      "location": "ss",
+      "phone": "d",
+      "job": "Frontend Developer",
+      "email": "sd",
+      "github": "cc",
+      "linkedin": "ss",
+      "degree": "fs",
+      "college": "dfsf",
+      "year": "ss",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "DOM Manipulation",
+        "Cross Browser Compatibility",
+        "Git"
+      ],
+      "summary": "Creative frontend developer with expertise in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating engaging user experiences and optimizing web performance.",
+      "id": "XruIgJY6gB4"
+    },
+    {
+      "fullname": "sa",
+      "location": "ss",
+      "phone": "d",
+      "job": "Frontend Developer",
+      "email": "sd",
+      "github": "cc",
+      "linkedin": "ss",
+      "degree": "fs",
+      "college": "dfsf",
+      "year": "ss",
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Responsive Design",
+        "Tailwind CSS",
+        "Bootstrap",
+        "DOM Manipulation",
+        "Cross Browser Compatibility",
+        "Git"
+      ],
+      "summary": "Creative frontend developer with expertise in building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks. Passionate about creating engaging user experiences and optimizing web performance.",
+      "id": "bIqAGYVWnVU"
+    },
+    {
+      "fullname": "max mac",
+      "location": "Kochi",
+      "phone": "ds",
+      "job": "Graphic Designer",
+      "email": "ds",
+      "github": "ff",
+      "linkedin": "e",
+      "degree": "df",
+      "college": "dd",
+      "year": "44",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Brand Identity Design",
+        "Layout Design",
+        "Color Theory",
+        "Creative Thinking",
+        "Visual Communication",
+        "Logo Design",
+        "Image Editing"
+      ],
+      "summary": "Creative graphic designer with expertise in visual communication, branding, and digital design. Skilled in using modern design tools to create compelling visual content.",
+      "id": "lpKoNb2lCFs"
+    },
+    {
+      "fullname": "Rahul",
+      "location": "sd",
+      "phone": "132446",
+      "job": "Backend Developer",
+      "email": "dsfs",
+      "github": "bnnh",
+      "linkedin": "saf",
+      "degree": "degree",
+      "college": "ktu",
+      "year": "2025",
+      "skills": [
+        "Node.js",
+        "Express.js",
+        "REST API Development",
+        "Database Design",
+        "MongoDB",
+        "SQL",
+        "Authentication & Authorization",
+        "Server Security",
+        "API Integration",
+        "Git"
+      ],
+      "summary": "Backend developer experienced in building secure and scalable server-side applications. Skilled in REST API development, database management, and ensuring application performance and reliability.",
+      "id": "kPJUYfTydpw"
+    },
+    {
+      "fullname": "Vaishnav",
+      "location": "Kochi",
+      "phone": "47283750",
+      "job": "Data Scientist",
+      "email": "fdgdg",
+      "github": "gsdgsdg",
+      "linkedin": "fsfgsdg",
+      "degree": "BCA",
+      "college": "AVO",
+      "year": "2023",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "id": "R6iux9WBSrY"
+    },
+    {
+      "fullname": "Alex",
+      "location": "London",
+      "phone": "32547",
+      "job": "Data Scientist",
+      "email": "aasda",
+      "github": "hfgj",
+      "linkedin": "gdg",
+      "degree": "Btech",
+      "college": "fsfg",
+      "year": "2025",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "id": "GXiz0gH1Rl4"
+    },
+    {
+      "fullname": "Steve",
+      "location": "New Tork",
+      "phone": "1232356",
+      "job": "Cybersecurity Analyst",
+      "email": "rwegdn",
+      "github": "agfgry",
+      "linkedin": "dgdhdtj",
+      "degree": "BCA",
+      "college": "WWW",
+      "year": "2022",
+      "skills": [
+        "Network Security",
+        "Vulnerability Assessment",
+        "Penetration Testing",
+        "Security Monitoring",
+        "Incident Response",
+        "Risk Assessment",
+        "Firewalls",
+        "Encryption",
+        "Security Compliance",
+        "Threat Analysis"
+      ],
+      "summary": "Cybersecurity analyst focused on protecting systems and networks from cyber threats. Skilled in security monitoring, vulnerability assessment, and incident response.",
+      "id": "4BkeE3-eBbQ"
+    },
+    {
+      "fullname": "Kiran",
+      "location": "Kozikode",
+      "phone": "324445",
+      "job": "HR Manager",
+      "email": "fsgfhj",
+      "github": "dfgj",
+      "linkedin": "bhgfdsa",
+      "degree": "BBA",
+      "college": "Amritha",
+      "year": "2020",
+      "skills": [
+        "Recruitment",
+        "Talent Acquisition",
+        "Employee Engagement",
+        "Performance Management",
+        "HR Policies",
+        "Conflict Resolution",
+        "Training & Development",
+        "Payroll Management",
+        "Leadership",
+        "Communication"
+      ],
+      "summary": "HR manager experienced in talent acquisition, employee engagement, and performance management to support organizational growth and workforce development.",
+      "id": "QPOQvLBK14k"
+    },
+    {
+      "fullname": "Albin",
+      "location": "Banglore",
+      "phone": "2436",
+      "job": "Data Analyst",
+      "email": "albin@gmail.com",
+      "github": "bdfsw",
+      "linkedin": "dagshdh",
+      "degree": "Btech",
+      "college": "KTU",
+      "year": "2025",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": "Tnla_YI1KXU"
+    },
+    {
+      "fullname": "Ashik",
+      "location": "Chennai",
+      "phone": "3859737",
+      "job": "Product Manager",
+      "email": "aa@gmail.com",
+      "github": "gsdgg",
+      "linkedin": "scbdf",
+      "degree": "Bcom",
+      "college": "EEE",
+      "year": "2024",
+      "skills": [
+        "Product Strategy",
+        "Market Research",
+        "Roadmap Planning",
+        "Stakeholder Management",
+        "Agile Methodology",
+        "User Story Creation",
+        "Product Lifecycle Management",
+        "Data Analysis",
+        "Leadership",
+        "Communication"
+      ],
+      "summary": "Product manager skilled in defining product strategies, managing product roadmaps, and delivering solutions that meet user and business needs.",
+      "id": "S5tud9KxJaE"
+    }
+  ],
+  "downloads": [
+    {
+      "timeStamp": "10/29/2026,10:50:02 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793251200/yvd9apgartqbxlagqhcz.png",
+      "resumeId": "lpKoNb2lCFs",
+      "jobRole": "Graphic Designer",
+      "id": "Hv1DTjvM6vs"
+    },
+    {
+      "timeStamp": "10/29/2026,11:30:03 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793253601/drrafrig94fu7ytt6igu.png",
+      "resumeId": "kPJUYfTydpw",
+      "jobRole": "Backend Developer",
+      "id": "1ZsTQ2EWiGE"
+    },
+    {
+      "timeStamp": "10/30/2026,10:30:26 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793336424/p1yccdo52u8nvl09px6g.png",
+      "resumeId": "bIqAGYVWnVU",
+      "jobRole": "Frontend Developer",
+      "id": "TW4E9lJYYSA"
+    },
+    {
+      "timeStamp": "10/30/2026,10:32:11 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793336527/ggntiive8pteskgxrpqv.png",
+      "resumeId": "R6iux9WBSrY",
+      "jobRole": "Data Scientist",
+      "id": "zEEotcWSTMg"
+    },
+    {
+      "timeStamp": "10/30/2026,10:34:24 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793336661/jvb6mhd2pvzxwaqtmiec.png",
+      "resumeId": "GXiz0gH1Rl4",
+      "jobRole": "Data Scientist",
+      "id": "4jRVjK8psiQ"
+    },
+    {
+      "timeStamp": "10/30/2026,10:47:08 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793337424/vdzmyunwwad0whfchcze.png",
+      "resumeId": "4BkeE3-eBbQ",
+      "jobRole": "Cybersecurity Analyst",
+      "id": "mSY_xw4O44Y"
+    },
+    {
+      "timeStamp": "10/30/2026,10:48:39 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793337516/lxfbjioy674qtuqfw5fn.png",
+      "resumeId": "QPOQvLBK14k",
+      "jobRole": "HR Manager",
+      "id": "Ls7CgNQ7DwY"
+    },
+    {
+      "timeStamp": "10/30/2026,10:50:22 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793337620/la7uvoteqnzjd1lss1ge.png",
+      "resumeId": "Tnla_YI1KXU",
+      "jobRole": "Data Analyst",
+      "id": "AZH40rCi8LE"
+    },
+    {
+      "timeStamp": "10/30/2026,10:53:42 AM",
+      "resumeImg": "https://res.cloudinary.com/igdaup01/image/upload/v1793337819/rti07fr8zqpy9vg07stm.png",
+      "resumeId": "S5tud9KxJaE",
+      "jobRole": "Product Manager",
+      "id": "p6fw-YlGi5g"
+    }
+  ]
+}
